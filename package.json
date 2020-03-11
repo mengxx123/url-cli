@@ -1,0 +1,18 @@
+{
+  "name": "@yunser/url-cli",
+  "version": "0.0.1",
+  "description": "Open url in browser.",
+  "main": "index.js",
+  "author": "Yunser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunser/url-cli"
+  },
+  "bin": {
+    "url": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^4.1.1"
+  }
+}
